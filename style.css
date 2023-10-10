@@ -58,7 +58,7 @@ body{
     align-items: center;
 
 }
-@media (max-width:640px){
+@media  (max-width:640px){
     #box1,#box2,#box3,#box4,#box5,
     #box20,#box19,#box18,#box17,#box16{
         display: none;
